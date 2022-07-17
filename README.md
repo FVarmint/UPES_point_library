@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://isr-project-kurpiel.herokuapp.com/"><img alt="Online Library" width="600px" src="client/public/images/OL1.gif"></a>
-<br></div><br>
-
 # Online Library
 
 A college project which allows users to share their opinions about the books they read.
@@ -19,24 +15,6 @@ A college project which allows users to share their opinions about the books the
 - watch statistics of all books
 - watch details of each users
 
-## Demo
-
-<div>
-<a href="https://isr-project-kurpiel.herokuapp.com/"><img alt="Online Library" width="300px" src="client/public/images/logo.PNG"></a>
-</div><br>
-
-Here is a working live demo : https://isr-project-kurpiel.herokuapp.com/
-
-## Technologies
-
-Full-stack application utilising a MERN stack.
-
-#### FRONT-END APP
-
-- SPA done in React & Redux
-- implements Material-UI
-- sends API requests to server
-
 #### BACK-END SERVER
 
 - done in NodeJS with MongoDB
@@ -51,6 +29,3 @@ Full-stack application utilising a MERN stack.
 3. Run `npm install`
 4. Go to parent directory and run npm run dev
 5. Open http://localhost:3000 to view it in the browser.
-
-The page will automatically reload if you make changes to the code.
-You will see the build errors and lint warnings in the console.
